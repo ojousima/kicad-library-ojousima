@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2776
+D 200 mA negative ratiometric charge pump, 2.7 V ... 5.5V in
+K Charge pump negative ratiometric dc/dc switching
+F http://www.ti.com/lit/ds/symlink/lm2776.pdf
+$ENDCMP
+#
+#End Doc Library

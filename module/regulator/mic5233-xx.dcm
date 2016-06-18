@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5233-xx
+D Reverse protected 100 mA up to 30V LDO  SOT-23-5
+K LDO
+F http://www.micrel.com/_PDF/mic5233.pdf
+$ENDCMP
+#
+#End Doc Library

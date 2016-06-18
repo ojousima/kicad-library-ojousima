@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD143A-SR05
+D 2 channel steering TVS diode with 5 V or 12 V zener
+K TVS steering 2 ch
+F http://www.bourns.com/docs/Product-Datasheets/CD143A-SR05_12.pdf
+$ENDCMP
+#
+#End Doc Library

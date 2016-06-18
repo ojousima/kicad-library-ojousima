@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSV524
+D Micropower quad op amp, rail to rail output, 2.7 - 5.5 V
+K op amp rail to rail quad micropower
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/4a/50/94/16/69/af/4b/58/DM00047334.pdf/files/DM00047334.pdf/jcr:content/translations/en.DM00047334.pdf
+$ENDCMP
+#
+#End Doc Library
