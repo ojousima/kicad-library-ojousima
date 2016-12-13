@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF33xx
+D REF33xx 3.9-μA, SC70-3, SOT-23-3, and UQFN-8, 30-ppm/°C Drift Voltage Reference
+K series reference
+F http://www.ti.com/lit/ds/symlink/ref3312.pdf
+$ENDCMP
+#
+#End Doc Library

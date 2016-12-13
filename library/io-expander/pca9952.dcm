@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9952
+D 16 Channel I2C 57 mA constant current led driver
+K LED IO Expander constant current driver
+F http://www.nxp.com/documents/data_sheet/PCA9952_PCA9955.pdf
+$ENDCMP
+#
+#End Doc Library
